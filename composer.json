@@ -1,0 +1,21 @@
+{
+    "name": "windsor/forms",
+    "description": "A library for the creation of html forms and form validation.",
+    "type": "library",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "LijahIde",
+            "email": "lijahide196@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Windsor\\Forms\\": "src"
+        }
+    }
+}
